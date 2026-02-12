@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "チルドレンレコード (Re Ver.)",
+  "base_artist": "じん",
+  "createdAt": "2026-02-12T06:45:51.390624Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チルドレンレコード - Re:boot",
+      "artist": "JIN",
+      "has_synced": false,
+      "path": "select/01_チルドレンレコード_-_Re_boot_JIN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "チルドレンレコード",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/02_チルドレンレコード_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "チルドレンレコード",
+      "artist": "SymaG",
+      "has_synced": true,
+      "path": "select/03_チルドレンレコード_SymaG.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "17. チルドレンレコード",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/04_17._チルドレンレコード_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "チルドレンレコード",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/05_チルドレンレコード_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "チルドレンレコード - Children Record (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音レン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/06_チルドレンレコード_-_Children_Record_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音レン)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "チルドレンレコード",
+      "artist": "Jin ft. MARiA",
+      "has_synced": true,
+      "path": "select/07_チルドレンレコード_Jin_ft._MARiA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "チルドレンレコード",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/08_チルドレンレコード_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "チルドレンレコード(Re:boot)",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/09_チルドレンレコード(Re_boot)_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "チルドレンレコード(Re:boot) (Cover)",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/10_チルドレンレコード(Re_boot)_(Cover)_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "チルドレンレコード",
+      "artist": "じん feat. 96猫",
+      "has_synced": false,
+      "path": "select/11_チルドレンレコード_じん_feat._96猫.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "チルドレンレコード",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/12_チルドレンレコード_96猫.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "チルドレンレコード",
+      "artist": "Jin",
+      "has_synced": true,
+      "path": "select/13_チルドレンレコード_Jin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Children Record (チルドレンレコード)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/14_Children_Record_(チルドレンレコード)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チルドレンレコード",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/pl_01_チルドレンレコード_じん.txt"
+    }
+  ]
+}
